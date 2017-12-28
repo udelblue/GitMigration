@@ -1,0 +1,7 @@
+OVSR-UI-Birth
+OVSR-UI-Portal
+OVSR-UI-Server
+OVSR-Resource-Server-Birth
+OVSR-Resource-Server-Portal
+OVSR-OAuth
+OVSR-API-Gateway
